@@ -125,8 +125,8 @@
     }
     .p14{
         background-color: hsl(0, 0%, 100%);
-        width: 90vw;
-        height: 90vh;
+        width: 80vw;
+        height: 70vh;
         border-radius: 20px;
         border: 1px solid black;
         box-shadow: 10px 10px 0px black;
@@ -156,6 +156,6 @@
     }
     .p{
         border-radius: 10px;
-        height: 19vh;
+        height: 16vh;
     }
 }
